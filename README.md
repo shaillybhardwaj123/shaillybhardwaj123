@@ -1,5 +1,6 @@
 # Hey there! 👋 Welcome to My GitHub Profile
 
+![Profile Views](https://komarev.com/ghpvc/?username=shaillybhardwaj123&color=8B5E3C&style=flat-square)
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-8B5E3C?style=for-the-badge&logo=vercel&logoColor=white)](https://shaillyportfolio.vercel.app/)
@@ -55,43 +56,47 @@
 | **Orion AI** | 🤖 Next-gen AI voice assistant with weather, news & translation | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![APIs](https://img.shields.io/badge/-APIs-0096D6?logo=api&logoColor=white) |
 | **PortShailly** | 💼 Modern portfolio built with React, TypeScript & TailwindCSS | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) |
 
-</div>
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shaillybhardwaj123&show_icons=true&theme=gruvbox" height="170"/>
+
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shaillybhardwaj123&layout=compact&theme=gruvbox" height="170"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+### 🔥 GitHub Streak
 
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaillybhardwaj123&show_icons=true&theme=dark&bg_color=111827&title_color=8B5E3C&text_color=FFFFFF&icon_color=C7A17A&border_color=6F4A2D)](https://github.com/shaillybhardwaj123)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=shaillybhardwaj123&theme=dark&background=111827&border=6F4A2D&currStreakNum=C7A17A&sideNums=8B5E3C&currStreakLabel=C7A17A&sideLabels=8B5E3C&dateFormat=M%20j%5B%2C%20Y%5D)](https://github.com/shaillybhardwaj123)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaillybhardwaj123&layout=compact&theme=dark&bg_color=111827&title_color=8B5E3C&text_color=FFFFFF&border_color=6F4A2D)](https://github.com/shaillybhardwaj123)
-
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaillybhardwaj123&layout=pie&theme=dark&bg_color=111827&title_color=8B5E3C&text_color=FFFFFF&border_color=6F4A2D)](https://github.com/shaillybhardwaj123)
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shaillybhardwaj123&theme=gruvbox"/>
+</p>
 
 ---
 
-## 🏆 Achievements & Highlights
+### 📈 Contribution Graph
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaillybhardwaj123&theme=gruvbox"/>
+</p>
 
-🥇 **1st National Prize** — TechnoPHILIA'25 (MIT Pune) — LISA Project
+---
 
-🔬 **Research Intern** — Vicharanshala Lab, IIT Ropar (2026)
+### 🏆 GitHub Trophies
 
-🌐 **Open Source Contributor** — GirlScript Summer of Code 2026 (GSSoC'26)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shaillybhardwaj123&theme=gruvbox&no-frame=true&row=1&column=6"/>
+</p>
 
-🎤 **Speaker** — Student Research Symposium, IIT Indore (SRS'24) — Orion AI
+---
 
-📊 **LinkedIn Reach** — 56.4K Impressions | 17.3K People Reached | 1,157 Followers
+### ⚡ LeetCode Stats
 
-🎓 **Education** — Diploma ECE '25 @ AMU | B.Tech AI&DS '28 @ GLA University
-
-</div>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/shailly0420?theme=dark&font=Karma&ext=contest"/>
+</p>
 
 ---
 
@@ -123,7 +128,5 @@
 <div align="center">
 
 **Built with ❤️ by Shailly Bhardwaj**
-
-![Profile Views](https://komarev.com/ghpvc/?username=shaillybhardwaj123&color=8B5E3C&style=flat-square)
 
 </div>
