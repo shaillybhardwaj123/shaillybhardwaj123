@@ -44,6 +44,11 @@
 </div>
 
 ---
+### Live Projects 👀
+[![SmartSuraksha-AI](https://img.shields.io/badge/Smart_Suraksha_AI-0A66C2?style=for-the-badge)](https://smart-suraksha-ai.onrender.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge)](https://shaillyportfolio.vercel.app/)
+
+---
 
 ## 🚀 Featured Projects
 
