@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5E3C?style=for-the-badge&logo=vercel&logoColor=white)](https://shaillybhardwaj123.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5E3C?style=for-the-badge&logo=vercel&logoColor=white)](https://shaillyportfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaillybhardwaj04)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Shailly0420/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Shaillybhardwaj123@gmail.com)
@@ -48,12 +48,12 @@
 
 <div align="center">
 
-| Project | Description | Tech Stack | Link |
-|---------|-------------|-----------|------|
-| **SmartSuraksha** | 🛡️ AI-powered road accident detection & emergency alert system | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) | [Repo](https://github.com/shaillybhardwaj123/SMART-SURAKSHA-AI) |
-| **LISA** | 🎤 Voice-controlled lift system (1st National Prize - TechnoPHILIA'25) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white) | [View](https://shaillybhardwaj123.github.io/#projects) |
-| **Orion AI** | 🤖 Next-gen AI voice assistant with weather, news & translation | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![APIs](https://img.shields.io/badge/-APIs-009688?logo=api&logoColor=white) | [View](https://shaillybhardwaj123.github.io/#projects) |
-| **PortShailly** | 💼 Modern portfolio built with React, TypeScript & TailwindCSS | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white) | [Repo](https://github.com/shaillybhardwaj123/portshailly) |
+| Project | Description | Tech Stack |
+|---------|-------------|-----------|
+| **SmartSuraksha** | 🛡️ AI-powered road accident detection & emergency alert system | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white) |
+| **LISA** | 🎤 Voice-controlled lift system (1st National Prize - TechnoPHILIA'25) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white) |
+| **Orion AI** | 🤖 Next-gen AI voice assistant with weather, news & translation | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![APIs](https://img.shields.io/badge/-APIs-0096D6?logo=api&logoColor=white) |
+| **PortShailly** | 💼 Modern portfolio built with React, TypeScript & TailwindCSS | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) |
 
 </div>
 
@@ -63,11 +63,13 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaillybhardwaj123&show_icons=true&theme=dark&bg_color=111827&title_color=8B5E3C&text_color=FFFFFF&icon_color=C7A17A&border_color=6F4A2D&border_radius=10)](https://github.com/shaillybhardwaj123)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaillybhardwaj123&show_icons=true&theme=dark&bg_color=111827&title_color=8B5E3C&text_color=FFFFFF&icon_color=C7A17A&border_color=6F4A2D)](https://github.com/shaillybhardwaj123)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=shaillybhardwaj123&theme=dark&background=111827&border=6F4A2D&currStreakNum=C7A17A&sideNums=8B5E3C&currStreakLabel=C7A17A&sideLabels=8B5E3C&dates=6B7280)](https://github.com/shaillybhardwaj123)
+[![GitHub Streak](https://streak-stats.demolab.com?user=shaillybhardwaj123&theme=dark&background=111827&border=6F4A2D&currStreakNum=C7A17A&sideNums=8B5E3C&currStreakLabel=C7A17A&sideLabels=8B5E3C&dateFormat=M%20j%5B%2C%20Y%5D)](https://github.com/shaillybhardwaj123)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaillybhardwaj123&layout=compact&theme=dark&bg_color=111827&title_color=8B5E3C&text_color=FFFFFF&border_color=6F4A2D&border_radius=10)](https://github.com/shaillybhardwaj123)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaillybhardwaj123&layout=compact&theme=dark&bg_color=111827&title_color=8B5E3C&text_color=FFFFFF&border_color=6F4A2D)](https://github.com/shaillybhardwaj123)
+
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaillybhardwaj123&layout=pie&theme=dark&bg_color=111827&title_color=8B5E3C&text_color=FFFFFF&border_color=6F4A2D)](https://github.com/shaillybhardwaj123)
 
 </div>
 
@@ -111,7 +113,7 @@
 - 📧 **Email:** [Shaillybhardwaj123@gmail.com](mailto:Shaillybhardwaj123@gmail.com)
 - 💼 **LinkedIn:** [shaillybhardwaj04](https://linkedin.com/in/shaillybhardwaj04)
 - 🎯 **LeetCode:** [Shailly0420](https://leetcode.com/u/Shailly0420/)
-- 🌐 **Portfolio:** [shaillybhardwaj123.github.io](https://shaillybhardwaj123.github.io)
+- 🌐 **Portfolio:** [shaillyportfolio.vercel.app](https://shaillyportfolio.vercel.app/)
 - 📍 **Location:** Aligarh, Uttar Pradesh, India
 
 </div>
