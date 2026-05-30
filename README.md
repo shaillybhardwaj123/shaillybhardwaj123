@@ -70,9 +70,13 @@
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shaillybhardwaj123&show_icons=true&theme=gruvbox" height="170"/>
-
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shaillybhardwaj123&layout=compact&theme=gruvbox" height="170"/>
 </p>
+<div align="left">
+  
+<a  href="https://github.com/shaillybhardwaj123">
+  <div align="center">
+  <img height="170" src="https://github-readme-stats-lyart-six-14.vercel.app/api/top-langs/?username=shaillybhardwaj123&langs_count=20&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=282828&hide_border=true&count_private=true&include_all_commits=true&layout=compact&include_forks=true&size_weight=0.5&count_weight=0.5&cache_seconds=1" alt="Top Languages" />
+</a>
 
 ---
 
