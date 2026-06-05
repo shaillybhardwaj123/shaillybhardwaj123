@@ -61,8 +61,10 @@
 |---------|-------------|-----------|
 | **SmartSuraksha** | 🛡️ AI-powered road accident detection & emergency alert system | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white) |
 | **LISA** | 🎤 Voice-controlled lift system (1st National Prize - TechnoPHILIA'25) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white) |
-| **Orion AI** | 🤖 Next-gen AI voice assistant with weather, news & translation | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![APIs](https://img.shields.io/badge/-APIs-0096D6?logo=api&logoColor=white) |
+| **Orion AI** | 🤖 Next-gen AI voice assistant with weather, news & translation | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![APIs](https://img.shields.io/badge/-APIs-FF6F00?logoColor=white) |
 | **PortShailly** | 💼 Modern portfolio built with React, TypeScript & TailwindCSS | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) |
+
+</div>
 
 ---
 
@@ -71,12 +73,10 @@
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shaillybhardwaj123&show_icons=true&theme=gruvbox" height="170"/>
 </p>
-<div align="left">
-  
-<a  href="https://github.com/shaillybhardwaj123">
-  <div align="center">
-  <img height="170" src="https://github-readme-stats-lyart-six-14.vercel.app/api/top-langs/?username=shaillybhardwaj123&langs_count=20&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=282828&hide_border=true&count_private=true&include_all_commits=true&layout=compact&include_forks=true&size_weight=0.5&count_weight=0.5&cache_seconds=1" alt="Top Languages" />
-</a>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shaillybhardwaj123&langs_count=20&theme=gruvbox"/>
+</p>
 
 ---
 
