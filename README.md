@@ -68,39 +68,28 @@
 
 ---
 
-### 📊 GitHub Stats
-
+<h3>📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shaillybhardwaj123&show_icons=true&theme=gruvbox" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaillybhardwaj123&theme=react" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shaillybhardwaj123&theme=react" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shaillybhardwaj123&theme=react" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shaillybhardwaj123&theme=react" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shaillybhardwaj123&theme=react&utcOffset=8" alt="Productive Time" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shaillybhardwaj123&langs_count=20&theme=gruvbox"/>
+  <img height="180em" src="https://github-readmeapp.vercel.app/api?username=shaillybhardwaj123&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" /> 
 </p>
-
----
-
-### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shaillybhardwaj123&theme=gruvbox"/>
+  <img src="https://streak-stats.demolab.com?user=shaillybhardwaj123&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
-
----
-
-### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaillybhardwaj123&theme=gruvbox"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=shaillybhardwaj123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Trophies" />
 </p>
 
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shaillybhardwaj123&theme=gruvbox&no-frame=true&row=1&column=6"/>
-</p>
+[![Activity](https://github-readme-activity-graph.vercel.app/graph?username=shaillybhardwaj123&theme=dracula&bg_color=0d0d2b&color=A78BFA&line=7C3AED&point=A78BFA&hide_border=true)](https://github.com/dhairyagothi)
 
 ---
 
