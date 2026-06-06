@@ -103,7 +103,7 @@
 
 ## 💡 What I'm Currently Working On
 
-- 🔬 Research in AI & Intelligent Systems (IIT Ropar Internship)
+- 🔬 Research in AI & Intelligent Systems 
 - 🌐 Contributing to open-source projects
 - 🤖 Exploring advanced AI/ML applications
 - 📚 Building IoT solutions for real-world problems
