@@ -69,15 +69,24 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaillybhardwaj123&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+<p align="center">
+   <img height="180em" src="https://github-readmeapp.vercel.app/api?username=shaillybhardwaj123&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaillybhardwaj123&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shaillybhardwaj123&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=shaillybhardwaj123&theme=tokyonight&hide_border=true)
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=shaillybhardwaj123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shaillybhardwaj123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Trophies" />
+</p>
+
+[![Activity](https://github-readme-activity-graph.vercel.app/graph?username=shaillybhardwaj123&theme=dracula&bg_color=0d0d2b&color=A78BFA&line=7C3AED&point=A78BFA&hide_border=true)](https://github.com/shaillybhardwaj123)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 
 </div>
 
