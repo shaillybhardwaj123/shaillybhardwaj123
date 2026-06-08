@@ -59,38 +59,27 @@
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
 | **SmartSuraksha** | 🛡️ AI-powered road accident detection & emergency alert system | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) |
-| **LISA** | 🎤 Voice-controlled lift system (1st National Prize - TechnoPHILIA'25) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white) ![Speech](https://img.shields.io/badge/-Speech%20Recognition-4285F4?logoColor=white) |
-| **Orion AI** | 🤖 Next-gen AI voice assistant with weather, news & translation | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![APIs](https://img.shields.io/badge/-APIs-FF6B6B?logoColor=white) ![NLP](https://img.shields.io/badge/-NLP-9C27B0?logoColor=white) |
+| **LISA** | 🎤 Voice-controlled lift system (1st National Prize - TechnoPHILIA'25) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) |
+| **Orion AI** | 🤖 Next-gen AI voice assistant with weather, news & translation | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![APIs](https://img.shields.io/badge/-APIs-0A66C2?logoColor=white) ![NLP](https://img.shields.io/badge/-NLP-FF6F00?logoColor=white) |
 | **PortShailly** | 💼 Modern portfolio built with React, TypeScript & TailwindCSS | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white) |
 
 </div>
 
 ---
 
-<h3>📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaillybhardwaj123&theme=react" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shaillybhardwaj123&theme=react" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shaillybhardwaj123&theme=react" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shaillybhardwaj123&theme=react" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shaillybhardwaj123&theme=react&utcOffset=8" alt="Productive Time" />
-</p>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readmeapp.vercel.app/api?username=shaillybhardwaj123&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" /> 
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shaillybhardwaj123&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaillybhardwaj123&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shaillybhardwaj123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Trophies" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaillybhardwaj123&layout=compact&theme=tokyonight&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaillybhardwaj123&theme=dracula&bg_color=0d0d2b&color=A78BFA&line=7C3AED&point=A78BFA&hide_border=true" alt="Activity Graph" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=shaillybhardwaj123&theme=tokyonight&hide_border=true)
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=shaillybhardwaj123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1)
+
+</div>
 
 ---
 
