@@ -7,8 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaillybhardwaj04)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Shailly0420/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Shaillybhardwaj123@gmail.com)
-[![GitHub Followers](https://img.shields.io/github/followers/shaillybhardwaj123?style=for-the-badge&color=8B5E3C&labelColor=FAF8F5)](https://github.com/shaillybhardwaj123)
-
+[![GitHub Followers](https://img.shields.io/github/followers/shaillybhardwaj123?style=for-the-badge&color=EA4335&labelColor=FAF8F5)](https://github.com/shaillybhardwaj123)
 </div>
 
 ---
