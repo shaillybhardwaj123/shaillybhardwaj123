@@ -58,10 +58,10 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
-| **SmartSuraksha** | 🛡️ AI-powered road accident detection & emergency alert system | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white) |
-| **LISA** | 🎤 Voice-controlled lift system (1st National Prize - TechnoPHILIA'25) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white) |
-| **Orion AI** | 🤖 Next-gen AI voice assistant with weather, news & translation | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![APIs](https://img.shields.io/badge/-APIs-FF6F00?logoColor=white) |
-| **PortShailly** | 💼 Modern portfolio built with React, TypeScript & TailwindCSS | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) |
+| **SmartSuraksha** | 🛡️ AI-powered road accident detection & emergency alert system | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) |
+| **LISA** | 🎤 Voice-controlled lift system (1st National Prize - TechnoPHILIA'25) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white) ![Speech](https://img.shields.io/badge/-Speech%20Recognition-4285F4?logoColor=white) |
+| **Orion AI** | 🤖 Next-gen AI voice assistant with weather, news & translation | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![APIs](https://img.shields.io/badge/-APIs-FF6B6B?logoColor=white) ![NLP](https://img.shields.io/badge/-NLP-9C27B0?logoColor=white) |
+| **PortShailly** | 💼 Modern portfolio built with React, TypeScript & TailwindCSS | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white) |
 
 </div>
 
@@ -88,7 +88,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=shaillybhardwaj123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Trophies" />
 </p>
 
-[![Activity](https://github-readme-activity-graph.vercel.app/graph?username=shaillybhardwaj123&theme=dracula&bg_color=0d0d2b&color=A78BFA&line=7C3AED&point=A78BFA&hide_border=true)](https://github.com/dhairyagothi)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaillybhardwaj123&theme=dracula&bg_color=0d0d2b&color=A78BFA&line=7C3AED&point=A78BFA&hide_border=true" alt="Activity Graph" />
+</p>
 
 ---
 
