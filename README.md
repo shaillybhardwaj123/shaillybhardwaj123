@@ -1,7 +1,7 @@
 # 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF00CC&center=true&width=600&lines=Hey+there!+👋+Welcome+to+My+GitHub;I'm+Shailly+Bhardwaj;Full+Stack+Developer+%7C+AI+Enthusiast;Let's+Build+Something+Amazing!)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF00CC&center=true&width=600&lines=Hey+there!+👋+Welcome+to+My+GitHub;I'm+Shailly+Bhardwaj;Full+Stack+Developer+🚀;AI+%26+ML+Enthusiast+🤖)
 
 </div>
 
@@ -118,9 +118,9 @@
 
 | 🎯 Project | 📝 Description | 🛠️ Tech Stack |
 |:---:|:---|:---|
-| **SmartSuraksha** | 🛡️ AI-powered road accident detection & emergency alert system with real-time notifications | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=flat-square) ![IoT](https://img.shields.io/badge/-IoT-0A47A6?style=flat-square) |
-| **LISA** | 🎤 Voice-controlled lift system (🏆 **1st National Prize - TechnoPHILIA'25**) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=flat-square) ![Voice Control](https://img.shields.io/badge/-Voice%20Control-FF1493?style=flat-square) |
-| **Orion AI** | 🤖 Next-gen AI voice assistant with weather, news & translation features | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) ![APIs](https://img.shields.io/badge/-APIs-0D7377?style=flat-square) ![AI](https://img.shields.io/badge/-AI-FF6F00?style=flat-square) |
+| **SmartSuraksha** | 🛡️ AI-powered road accident detection & emergency alert system with real-time notifications | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat-square) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square) |
+| **LISA** | 🎤 Voice-controlled lift system (🏆 **1st National Prize - TechnoPHILIA'25**) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=flat-square) ![IoT](https://img.shields.io/badge/-IoT-0A47A6?logo=internet-archive&logoColor=white&style=flat-square) |
+| **Orion AI** | 🤖 Next-gen AI voice assistant with weather, news & translation features | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) ![API](https://img.shields.io/badge/-APIs-FF6F00?logo=api&logoColor=white&style=flat-square) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square) |
 | **PortShailly** | 💼 Modern portfolio built with cutting-edge technologies and stunning UI | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat-square) |
 
 </div>
@@ -145,7 +145,7 @@
 
 ### 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shaillybhardwaj123&theme=dracula&bg_color=0d0b1a&color=ff00cc&line=ff00cc&point=ff00cc&hide_border=true" alt="Contribution Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shaillybhardwaj123&theme=dracula&bg_color=0d0b1a&color=ff00cc&line=ff00cc&point=ff00cc&hide_border=true" alt="Contribution Activity" />
 
 </div>
 
