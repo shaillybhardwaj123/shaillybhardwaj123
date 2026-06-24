@@ -139,10 +139,6 @@
 
 <img height="200em" src="https://streak-stats.demolab.com?user=shaillybhardwaj123&theme=dracula&bg_color=0d0b1a&color=ff00cc&hide_border=true" alt="GitHub Streak Stats" />
 
-### 🏆 Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=shaillybhardwaj123&theme=dracula&no-frame=true&no-bg=true&margin-w=8&row=1&color=ff00cc" alt="GitHub Trophies" />
-
 ### 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaillybhardwaj123&theme=dracula&bg_color=0d0b1a&color=ff00cc&line=ff00cc&point=ff00cc&hide_border=true" alt="Contribution Activity" />
@@ -238,6 +234,6 @@
 
 <div align="center">
 
-[![Visitors Badge](https://visitor-badge.laobi.icu/?username=shaillybhardwaj123&style=flat-square&color=FF1493)](https://github.com/shaillybhardwaj123)
+![Visitors](https://visitor-badge.laobi.icu/?username=shaillybhardwaj123&style=flat-square&color=FF1493)
 
 </div>
