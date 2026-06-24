@@ -1,11 +1,10 @@
-# 
 <div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF00CC&center=true&width=600&lines=Hey+there!+👋+Welcome+to+My+GitHub;I'm+Shailly+Bhardwaj;Full+Stack+Developer+🚀;AI+%26+ML+Enthusiast+🤖)
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=Shailly%20Bhardwaj&fontSize=48&color=0:ff0080,100:7928ca&fontColor=ffffff&stroke=ffffff&strokeWidth=1"/>
+
+### 🚀 Full Stack Developer • AI Engineer • IoT Enthusiast
 
 </div>
-
-
 
 ## 🌟 Profile Overview
 
