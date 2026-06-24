@@ -52,50 +52,64 @@
 
 ### 🖥️ Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-EA4335?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-0A66C2?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&labelColor=1e1e1e" alt="Python"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&labelColor=1e1e1e" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white&labelColor=1e1e1e" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white&labelColor=1e1e1e" alt="C++"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white&labelColor=1e1e1e" alt="Java"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white&labelColor=1e1e1e" alt="C"/>
+<img src="https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white&labelColor=1e1e1e" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white&labelColor=1e1e1e" alt="CSS3"/>
 
 ### 🤖 AI & ML
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Python](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white&labelColor=1e1e1e" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white&labelColor=1e1e1e" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white&labelColor=1e1e1e" alt="Scikit-Learn"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white&labelColor=1e1e1e" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white&labelColor=1e1e1e" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white&labelColor=1e1e1e" alt="NumPy"/>
 
 ### 🔌 IoT & Embedded
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-0A47A6?style=for-the-badge&logo=internet-archive&logoColor=white)
-![Embedded C](https://img.shields.io/badge/Embedded%20C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white&labelColor=1e1e1e" alt="Arduino"/>
+<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white&labelColor=1e1e1e" alt="Raspberry Pi"/>
+<img src="https://img.shields.io/badge/IoT-0A47A6?style=flat&logo=internet-archive&logoColor=white&labelColor=1e1e1e" alt="IoT"/>
+<img src="https://img.shields.io/badge/Embedded%20C-A8B9CC?style=flat&logo=c&logoColor=white&labelColor=1e1e1e" alt="Embedded C"/>
 
 ### 🎨 Frontend & Frameworks
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black&labelColor=1e1e1e" alt="React"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white&labelColor=1e1e1e" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white&labelColor=1e1e1e" alt="Vue.js"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white&labelColor=1e1e1e" alt="TailwindCSS"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white&labelColor=1e1e1e" alt="Bootstrap"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white&labelColor=1e1e1e" alt="Flask"/>
 
 ### 🗄️ Backend & Databases
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white&labelColor=1e1e1e" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white&labelColor=1e1e1e" alt="Express"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black&labelColor=1e1e1e" alt="Firebase"/>
+<img src="https://img.shields.io/badge/MongoDB-13AA52?style=flat&logo=mongodb&logoColor=white&labelColor=1e1e1e" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white&labelColor=1e1e1e" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white&labelColor=1e1e1e" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white&labelColor=1e1e1e" alt="Redis"/>
 
 ### 📊 Data & Analytics
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black&labelColor=1e1e1e" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white&labelColor=1e1e1e" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Jupyter-F37726?style=flat&logo=jupyter&logoColor=white&labelColor=1e1e1e" alt="Jupyter"/>
 
 ### 🔧 Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&labelColor=1e1e1e" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white&labelColor=1e1e1e" alt="GitHub"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white&labelColor=1e1e1e" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white&labelColor=1e1e1e" alt="Docker"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white&labelColor=1e1e1e" alt="Postman"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black&labelColor=1e1e1e" alt="Linux"/>
 
 </div>
 
@@ -120,7 +134,7 @@
 |:---:|:---|:---|
 | **SmartSuraksha** | 🛡️ AI-powered road accident detection & emergency alert system with real-time notifications | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat-square) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square) |
 | **LISA** | 🎤 Voice-controlled lift system (🏆 **1st National Prize - TechnoPHILIA'25**) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=flat-square) ![IoT](https://img.shields.io/badge/-IoT-0A47A6?logo=internet-archive&logoColor=white&style=flat-square) |
-| **Orion AI** | 🤖 Next-gen AI voice assistant with weather, news & translation features | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) ![API](https://img.shields.io/badge/-APIs-FF6F00?logo=api&logoColor=white&style=flat-square) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square) |
+| **Orion AI** | 🤖 Next-gen AI voice assistant with weather, news & translation features | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) ![APIs](https://img.shields.io/badge/-APIs-FF6F00?logo=api&logoColor=white&style=flat-square) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square) |
 | **PortShailly** | 💼 Modern portfolio built with cutting-edge technologies and stunning UI | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat-square) |
 
 </div>
@@ -234,6 +248,8 @@
 
 <div align="center">
 
-![Visitors](https://visitor-badge.laobi.icu/?username=shaillybhardwaj123&style=flat-square&color=FF1493)
+### 👀 Visitors
+
+<a href="https://visitorbadge.io/badges/page/shaillybhardwaj123"><img src="https://visitorbadge.io/badges/page/shaillybhardwaj123?label=Profile%20Visits&labelColor=FF1493&color=FF1493&style=flat&logo=GitHub" alt="Visitor Badge" /></a>
 
 </div>
