@@ -5,7 +5,7 @@
 
 </div>
 
----
+
 
 ## 🌟 Profile Overview
 
@@ -19,11 +19,11 @@
 
 ### 🔗 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00D9FF?style=for-the-badge&logo=vercel&logoColor=black&labelColor=1a1a2e&logoWidth=20)](https://shaillyportfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e&logoWidth=20)](https://linkedin.com/in/shaillybhardwaj04)
-[![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1a1a2e&logoWidth=20)](https://leetcode.com/u/Shailly0420/)
-[![Gmail](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e&logoWidth=20)](mailto:Shaillybhardwaj123@gmail.com)
-[![GitHub](https://img.shields.io/badge/FOLLOWERS-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e&logoWidth=20)](https://github.com/shaillybhardwaj123)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00D9FF?style=flat&logo=vercel&logoColor=black&labelColor=1a1a2e&logoWidth=20)](https://shaillyportfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=1a1a2e&logoWidth=20)](https://linkedin.com/in/shaillybhardwaj04)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=flat&logo=leetcode&logoColor=black&labelColor=1a1a2e&logoWidth=20)](https://leetcode.com/u/Shailly0420/)
+[![Gmail](https://img.shields.io/badge/EMAIL-EA4335?style=flat&logo=gmail&logoColor=white&labelColor=1a1a2e&logoWidth=20)](mailto:Shaillybhardwaj123@gmail.com)
+[![GitHub](https://img.shields.io/badge/FOLLOWERS-000000?style=flat&logo=github&logoColor=white&labelColor=1a1a2e&logoWidth=20)](https://github.com/shaillybhardwaj123)
 
 </div>
 
@@ -119,8 +119,8 @@
 
 <div align="center">
 
-[![SmartSuraksha-AI](https://img.shields.io/badge/🛡️%20SmartSuraksha%20AI-FF1493?style=for-the-badge&logoColor=white)](https://smart-suraksha-ai.onrender.com/)
-[![Portfolio](https://img.shields.io/badge/💼%20My%20Portfolio-00D9FF?style=for-the-badge&logoColor=black)](https://shaillyportfolio.vercel.app/)
+[![SmartSuraksha-AI](https://img.shields.io/badge/🛡️%20SmartSuraksha%20AI-FF1493?style=flat&logoColor=white)](https://smart-suraksha-ai.onrender.com/)
+[![Portfolio](https://img.shields.io/badge/💼%20My%20Portfolio-00D9FF?style=flat&logoColor=black)](https://shaillyportfolio.vercel.app/)
 
 </div>
 
@@ -205,14 +205,14 @@
 
 <table>
   <tr>
-    <td align="center"><a href="mailto:Shaillybhardwaj123@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a></td>
-    <td align="center"><a href="https://linkedin.com/in/shaillybhardwaj04"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a></td>
-    <td align="center"><a href="https://shaillyportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" /></a></td>
+    <td align="center"><a href="mailto:Shaillybhardwaj123@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a></td>
+    <td align="center"><a href="https://linkedin.com/in/shaillybhardwaj04"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a></td>
+    <td align="center"><a href="https://shaillyportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=flat&logo=vercel&logoColor=black" alt="Portfolio" /></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://leetcode.com/u/Shailly0420/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a></td>
-    <td align="center"><a href="https://github.com/shaillybhardwaj123"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a></td>
-    <td align="center"><img src="https://img.shields.io/badge/Aligarh%2C%20UP%2C%20India-📍-FF1493?style=for-the-badge" alt="Location" /></td>
+    <td align="center"><a href="https://leetcode.com/u/Shailly0420/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" /></a></td>
+    <td align="center"><a href="https://github.com/shaillybhardwaj123"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" alt="GitHub" /></a></td>
+    <td align="center"><img src="https://img.shields.io/badge/Aligarh%2C%20UP%2C%20India-📍-FF1493?style=flat" alt="Location" /></td>
   </tr>
 </table>
 
@@ -246,10 +246,3 @@
 
 ---
 
-<div align="center">
-
-### 👀 Visitors
-
-<a href="https://visitorbadge.io/badges/page/shaillybhardwaj123"><img src="https://visitorbadge.io/badges/page/shaillybhardwaj123?label=Profile%20Visits&labelColor=FF1493&color=FF1493&style=flat&logo=GitHub" alt="Visitor Badge" /></a>
-
-</div>
